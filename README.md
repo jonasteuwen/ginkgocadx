@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/gerddie/ginkgocadx.svg?branch=master)](https://travis-ci.org/gerddie/ginkgocadx)
 [![Coverity Status](https://scan.coverity.com/projects/8214/badge.svg)](https://scan.coverity.com/projects/ginkgocadx)
 
+# Is a fork!
+
 # Ginkgo CADx #
 
 ## Preface ##
